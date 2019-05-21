@@ -85,10 +85,6 @@ Checks collision of piece in well
 Checks collision of piece in well
 
 
-Failed to Finish Implementation
-Did not get to special functions/special classes. Vapor Bomb, Crazy Shape, instead function as normal pieces
-My next piece does not show up correctly
-
 
 Assumptions
 Assumed that well only contained the $ symbols and * symbols
